@@ -1,0 +1,6 @@
+{
+  "appId": "com.englishspeakingmaster.app",
+  "appName": "English Speaking Master",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
